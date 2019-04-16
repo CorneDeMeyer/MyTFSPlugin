@@ -1,0 +1,14 @@
+C:\Users\cdemeyer\Documents\Visual Studio 2017\Projects\MyTFSPlugin\MyTFSPlugin\obj\Debug\MyTFSPlugin.csprojAssemblyReference.cache
+C:\Users\cdemeyer\Documents\Visual Studio 2017\Projects\MyTFSPlugin\MyTFSPlugin\obj\Debug\MyTFSPlugin.csproj.CoreCompileInputs.cache
+C:\Users\cdemeyer\Documents\Visual Studio 2017\Projects\MyTFSPlugin\MyTFSPlugin\bin\Debug\MyTFSPlugin.dll
+C:\Users\cdemeyer\Documents\Visual Studio 2017\Projects\MyTFSPlugin\MyTFSPlugin\bin\Debug\MyTFSPlugin.pdb
+C:\Users\cdemeyer\Documents\Visual Studio 2017\Projects\MyTFSPlugin\MyTFSPlugin\bin\Debug\Microsoft.TeamFoundation.Client.dll
+C:\Users\cdemeyer\Documents\Visual Studio 2017\Projects\MyTFSPlugin\MyTFSPlugin\bin\Debug\Microsoft.TeamFoundation.Common.dll
+C:\Users\cdemeyer\Documents\Visual Studio 2017\Projects\MyTFSPlugin\MyTFSPlugin\bin\Debug\Microsoft.TeamFoundation.Framework.Server.dll
+C:\Users\cdemeyer\Documents\Visual Studio 2017\Projects\MyTFSPlugin\MyTFSPlugin\bin\Debug\Microsoft.TeamFoundation.Git.Server.dll
+C:\Users\cdemeyer\Documents\Visual Studio 2017\Projects\MyTFSPlugin\MyTFSPlugin\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.dll
+C:\Users\cdemeyer\Documents\Visual Studio 2017\Projects\MyTFSPlugin\MyTFSPlugin\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Common.dll
+C:\Users\cdemeyer\Documents\Visual Studio 2017\Projects\MyTFSPlugin\MyTFSPlugin\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Server.dll
+C:\Users\cdemeyer\Documents\Visual Studio 2017\Projects\MyTFSPlugin\MyTFSPlugin\obj\Debug\MyTFSPlugin.csproj.CopyComplete
+C:\Users\cdemeyer\Documents\Visual Studio 2017\Projects\MyTFSPlugin\MyTFSPlugin\obj\Debug\MyTFSPlugin.dll
+C:\Users\cdemeyer\Documents\Visual Studio 2017\Projects\MyTFSPlugin\MyTFSPlugin\obj\Debug\MyTFSPlugin.pdb
